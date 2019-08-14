@@ -1,0 +1,6 @@
+CAC's_Virus.vcxproj
+CAC's_Virus.vcxproj.filters
+CAC's_Virus.vcxproj.user
+Debug
+Infected.txt
+Virus.cpp
